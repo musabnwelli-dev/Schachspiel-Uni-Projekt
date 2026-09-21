@@ -1,0 +1,10 @@
+# Kompilierte Dateien
+bin/
+build/
+*.class
+
+# Eclipse
+.settings/
+
+# macOS
+.DS_Store
