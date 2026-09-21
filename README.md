@@ -42,13 +42,11 @@ Mein Schwerpunkt im Projekt lag auf:
 
 ## Screenshots
 
-### Spieloberfläche
+### Startansicht
+![Startansicht](startansicht.png)
 
-![Spieloberfläche](screenshots/schachspiel.png)
-
-### Spielzustand
-
-![Spielzustand](screenshots/schachmatt.png)
+### Spielansicht
+![Spielansicht](spielansicht.png)
 
 ## Projektstruktur
 
